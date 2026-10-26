@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Iuran Sampah Warga - BUPDA Padangsambian",
+  "description": "Aplikasi iuran sampah warga dengan fitur riwayat pembayaran, notifikasi tagihan bulanan otomatis, impor/ekspor data pelanggan, dan pencatatan kas lingkungan bertema hijau mint segar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
